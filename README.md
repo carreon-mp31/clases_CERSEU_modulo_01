@@ -4,4 +4,7 @@
 
 - **Lugar:** CERSEU - UNMSM
 - **Alumno:** Paulo Carreon
+<<<<<<< HEAD
+- **Profesor:** Anthony Carrillo
+=======
 - **Profesor:** Anthony Carrillo
